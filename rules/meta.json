@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "Orgc:name": {
+      "en": "{0} reported the information via a MISP event referenced as %uuid% on %date%."
+    },
+    "info": {
+      "en": "The report describes '{0}'."
+    }
+  },
+  "metadata": {
+    "info": "title"
+  }
+}
